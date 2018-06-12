@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CustomModKeybinds",
+	"Description": "Custom Keybinds for mods; This system doesn't care about vanilla keybinds, so if a user binds custom mod event to the R key, they will still need to go into the normal vanilla keybinds menu to change the reload action to something other than R. ect ect.",
+	"Category": "Squad",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsMod": true,
+	"Installed": false
+}
